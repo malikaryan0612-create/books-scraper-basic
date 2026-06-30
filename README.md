@@ -24,7 +24,7 @@ Data Collected
 
 Built With
 
-- Python 3.11
+- Python 3.14
 - BeautifulSoup4 — for parsing HTML
 - Requests — for fetching web pages
 - Pandas — for saving data to Excel
